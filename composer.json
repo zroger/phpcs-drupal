@@ -1,0 +1,16 @@
+{
+    "name": "zroger/phpcs-drupal",
+    "description": "Drupal coding standard for use with phpcs.",
+    "authors": [
+        {
+            "name": "Roger López",
+            "email": "rlopez@phase2technology.com"
+        }
+    ],
+    {
+      "type": "phpcs-standard",
+      "require": {
+        "goatherd/phpcs_installer": "*"
+      }
+    }
+}
