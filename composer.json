@@ -7,10 +7,9 @@
             "email": "rlopez@phase2technology.com"
         }
     ],
-    {
-      "type": "phpcs-standard",
-      "require": {
+    "license": "GPL-2.0",
+    "type": "phpcs-standard",
+    "require": {
         "goatherd/phpcs_installer": "*"
-      }
     }
 }
